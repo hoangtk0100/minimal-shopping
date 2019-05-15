@@ -1,1 +1,1 @@
-# minimal-shopping
+# minimal_shopping
